@@ -1,0 +1,35 @@
+# BMI Calculator using Python
+
+## Objective
+The main objective of this project is to develop a beginner-level command-line BMI calculator using Python. 
+The application takes user input for height and weight, calculates the Body Mass Index (BMI), and classifies the result into standard health categories. 
+This project helps in understanding basic programming concepts and problem-solving.
+
+---
+
+## Steps Performed
+1. Installed Python and set up the programming environment.
+2. Created a Python script to take user input for weight and height.
+3. Implemented input validation to ensure correct and positive values.
+4. Applied the BMI formula to calculate the result.
+5. Used conditional statements to categorize BMI into:
+   - Underweight
+   - Normal weight
+   - Overweight
+   - Obese
+6. Displayed the BMI value and category to the user.
+7. Tested the program with different inputs to ensure accuracy.
+
+---
+
+## Tools and Technologies Used
+- Python
+- Command Prompt / Terminal
+- Basic Python libraries and functions
+
+---
+
+## Outcome
+The project successfully calculates BMI based on user input and displays the corresponding health category. 
+It improves understanding of Python fundamentals such as variables, input/output, conditional statements, and logical thinking. 
+This project also serves as a foundation for developing more advanced applications in the future.
